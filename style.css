@@ -303,6 +303,7 @@ font-size: 24px;
 line-height: 28px;
 text-align: center;
 color: rgba(0, 0, 0, 0.73);
+background-color: #fff;
 }
 .button_text:hover{
 background-color: #a25f2e;
